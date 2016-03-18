@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSData+Base64.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/NSDictionary+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVPluginResult.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/CDVPlugin.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVShared.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVJSON.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000536A54A60000000000000198
+t1399477414
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005322A59300000000000003B4
+t1394779539
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005322A59E000000000000019E
+t1394779550
+s414
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDV.h
+c000000005406F4400000000000000516
+t1409741888
+s1302
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c000000005406F4400000000000000CBF
+t1409741888
+s3263
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c000000005406F44000000000000008BA
+t1409741888
+s2234
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c000000005406F4400000000000000473
+t1409741888
+s1139
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c000000005406F440000000000000127C
+t1409741888
+s4732
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c000000005406F4400000000000000501
+t1409741888
+s1281
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c000000005406F44000000000000017C5
+t1409741888
+s6085
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c000000005406F44000000000000004CB
+t1409741888
+s1227
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c000000005406F4400000000000000EB2
+t1409741888
+s3762
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c000000005406F4400000000000000401
+t1409741888
+s1025
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c000000005406F44000000000000007E6
+t1409741888
+s2022
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c000000005406F4400000000000000DDE
+t1409741888
+s3550
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c000000005406F44000000000000003DA
+t1409741888
+s986
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c000000005406F440000000000000098E
+t1409741888
+s2446
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c000000005406F44000000000000006CF
+t1409741888
+s1743
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c000000005406F4400000000000004C7E
+t1409741888
+s19582
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c000000005406F4400000000000000892
+t1409741888
+s2194
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c000000005406F44000000000000016AE
+t1409741888
+s5806
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c000000005406F4400000000000000C13
+t1409741888
+s3091
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c000000005406F4400000000000001B29
+t1409741888
+s6953
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c000000005406F4400000000000000408
+t1409741888
+s1032
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.h
+c000000005406F44000000000000003E6
+t1409741888
+s998
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m
+c000000005406F44000000000000006B6
+t1409741888
+s1718
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c000000005406F440000000000000038D
+t1409741888
+s909
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c000000005406F4400000000000000AA2
+t1409741888
+s2722
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c000000005406F440000000000000041C
+t1409741888
+s1052
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c000000005406F4400000000000002514
+t1409741888
+s9492
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c000000005406F4400000000000000421
+t1409741888
+s1057
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c000000005406F44000000000000012A2
+t1409741888
+s4770
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c000000005406F4400000000000000ACC
+t1409741888
+s2764
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c000000005406F440000000000000879D
+t1409741888
+s34717
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c000000005406F44000000000000005A2
+t1409741888
+s1442
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c000000005406F4400000000000003804
+t1409741888
+s14340
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c000000005406F44000000000000004B4
+t1409741888
+s1204
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c000000005406F44000000000000027D3
+t1409741888
+s10195
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c000000005406F4400000000000000392
+t1409741888
+s914
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c000000005406F44000000000000004D8
+t1409741888
+s1240
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c000000005406F440000000000000037D
+t1409741888
+s893
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c000000005406F44000000000000022CC
+t1409741888
+s8908
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c000000005406F44000000000000005DA
+t1409741888
+s1498
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c000000005406F4400000000000001059
+t1409741888
+s4185
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c000000005406F44000000000000003A0
+t1409741888
+s928
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c000000005406F4400000000000000584
+t1409741888
+s1412
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c000000005406F4400000000000000476
+t1409741888
+s1142
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c000000005406F4400000000000000620
+t1409741888
+s1568
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c000000005406F4400000000000000346
+t1409741888
+s838
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1409743013
+s60284
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1409743013
+s57320
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1409743012
+s27424
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1409743011
+s18224
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1409743012
+s10536
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1409743012
+s106404
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1409743012
+s57096
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1409743012
+s36616
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1409743013
+s9024
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1409743013
+s22584
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1409743012
+s68628
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1409743013
+s50464
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1409743013
+s159332
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1409743013
+s68916
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1409743012
+s41428
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c000000005406F8A30000000000000C67
+t1409743011
+s3175
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1409743012
+s7196
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1409743011
+s10888
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1409743011
+s17308
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1409743012
+s6752
+
+N/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1409743012
+s9172
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.pch
+t1409743011
+s3239020
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4163222330b7b941^74b54d2330b7b941^---0#1#1#--18"Check dependencies36"237B592F-3EC4-4435-869D-CFE7CD284E5E-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.770229
+e431435813.230951
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m216"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2653c52430b7b941^21203b2530b7b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3801"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"8AD8C1E9-8BD1-4DDC-94A7-D62616854337-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.659691
+e431435813.136888
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerff06a92430b7b941^60c8222530b7b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3759"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"D0A6A535-D46B-465F-9D56-DF2166F3BAAD-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.795446
+e431435812.847760
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93c7cb2430b7b941^b807d92430b7b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3759"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"E82B0E3D-54ED-4E57-ADBC-3DD642E3790C-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435811.890390
+e431435811.983001
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m212"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd810e42330b7b941^ffcdfb2330b7b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3789"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"57E3600B-827C-4E82-B6B3-3A3C3A60C7E2-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.849151
+e431435812.886318
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m186"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1e87d92430b7b941^4fe7e22430b7b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3711"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"C986F528-2FB4-4B75-8BB1-1D7BCCE72218-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.103252
+e431435812.795066
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere2931a2430b7b941^8dd0cb2430b7b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3759"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"43064E24-C102-402E-9DEF-68AD9F6627F6-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435811.972136
+e431435812.619717
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf43f92330b7b941^25e99e2430b7b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3723"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"1602F525-1FB9-4122-B85C-4A9B17003CE4-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435811.892094
+e431435812.018852
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae82e42330b7b941^6eda042430b7b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3759"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"AE7068F1-68FF-465C-9105-C5F36E3AF8AA-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435813.190286
+e431435813.235674
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4cde302530b7b941^906a3c2530b7b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3723"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"68589583-8F03-4AD5-B10B-1742C095A012-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435813.137305
+e431435813.189844
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m188"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd74b232530b7b941^c556302530b7b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3717"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"C046672D-A5A2-4635-B2E7-5118045B4260-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.017957
+e431435812.493931
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m200"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler66bd042430b7b941^32727e2430b7b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3753"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"66B6A1C6-15B9-48A4-BD69-25C198BC08F2-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.887649
+e431435813.252257
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m204"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd463e32430b7b941^349e402530b7b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3765"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"8C393F40-8BB1-43CF-930D-CB83AA83E387-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.020485
+e431435813.074292
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m206"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere561052430b7b941^d74b132530b7b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3771"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"F61B0B64-A6E1-49BC-AAE3-4710EB6134C2-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435813.074603
+e431435813.333628
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m208"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d3d132530b7b941^8e79552530b7b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3777"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"3459CDDE-0A43-481D-B7F1-7717EB1F41BD-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.000513
+e431435812.102974
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m196"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2311022430b7b941^5f5c1a2430b7b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3741"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"E5B14824-8F1B-421E-9C14-3BD2F4A1FC69-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.621035
+e431435812.658301
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler486c9f2430b7b941^4986a82430b7b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3783"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"485ED509-6125-494B-A621-116DA8E61806-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435811.891069
+e431435811.971837
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m198"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler753ee42330b7b941^656efa2330b7b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3747"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"E4755745-9F20-4AF9-A611-0C5149A00006-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435811.889679
+e431435812.000155
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m218"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0ce6e32330b7b941^0b24002430b7b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3807"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"2EB3BE05-9948-4C05-9BBA-0AC55D34694A-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435811.983372
+e431435812.017711
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m230"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere3e3fb2330b7b941^eb8f042430b7b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3843"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"99EC956B-16ED-4A81-90EC-ECC3E7513C4E-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435812.494264
+e431435812.768800
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12f57e2430b7b941^42d1c42430b7b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3783"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG -include /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"055DBE89-559E-4B5F-B5BB-959A28DA973D-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDV.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.h
+s431435811.328519
+e431435811.331371
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.h106"CpHeader Classes/CDV.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.had31542330b7b941^afee542330b7b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.h0034c4f9dcffdf42^749"CpHeader Classes/CDV.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDV.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDV.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"836E8B1C-702D-4758-B665-2B649988D107-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVAvailability.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s431435811.330130
+e431435811.338520
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h130"CpHeader Classes/CDVAvailability.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h8c30552330b7b941^c630572330b7b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h0034c4f9dcffdf42^785"CpHeader Classes/CDVAvailability.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"85D186AE-C135-45BF-8736-1BB488ABEC2B-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s431435811.325795
+e431435811.328541
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h136"CpHeader Classes/CDVCommandDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.hc1c4532330b7b941^72e1542330b7b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h0034c4f9dcffdf42^794"CpHeader Classes/CDVCommandDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"9688A7AA-8ADE-4C32-B571-FC3A99AFFA84-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s431435811.339925
+e431435811.344016
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h144"CpHeader Classes/CDVCommandDelegateImpl.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h51a4572330b7b941^0fba582330b7b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h0034c4f9dcffdf42^806"CpHeader Classes/CDVCommandDelegateImpl.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"A240F26F-6C8F-415B-8263-8968907B9DE2-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVCommandQueue.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s431435811.338102
+e431435811.340858
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h130"CpHeader Classes/CDVCommandQueue.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h10ea562330b7b941^9e45572330b7b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h0034c4f9dcffdf42^785"CpHeader Classes/CDVCommandQueue.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"FF55DBE8-C2D3-463A-82D8-E5880C846424-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVConfigParser.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s431435811.343483
+e431435811.345813
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h130"CpHeader Classes/CDVConfigParser.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.hc24f582330b7b941^70ce582330b7b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h0034c4f9dcffdf42^785"CpHeader Classes/CDVConfigParser.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"907D3052-4206-4F2F-8272-AF7AE7243EB8-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVDebug.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s431435811.309978
+e431435811.317212
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h116"CpHeader Classes/CDVDebug.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h23d8502330b7b941^7b4b512330b7b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h0034c4f9dcffdf42^764"CpHeader Classes/CDVDebug.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVDebug.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"232A6C80-E4CE-4067-81CB-61FAC219BC0C-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s431435811.304298
+e431435811.310870
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h140"CpHeader Classes/CDVInvokedUrlCommand.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.hcafe4d2330b7b941^f8a44f2330b7b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h0034c4f9dcffdf42^800"CpHeader Classes/CDVInvokedUrlCommand.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"F29FCB5F-E8FA-4894-B0E9-3FA27C981988-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVJSON.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s431435811.345711
+e431435811.350891
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.h114"CpHeader Classes/CDVJSON.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.hbb29592330b7b941^c896592330b7b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.h0034c4f9dcffdf42^761"CpHeader Classes/CDVJSON.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVJSON.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"C5E225E0-831D-4AED-8D42-ADE0D9CC227B-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVLocalStorage.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s431435811.332928
+e431435811.338112
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h130"CpHeader Classes/CDVLocalStorage.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h3cdd552330b7b941^fb20572330b7b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h0034c4f9dcffdf42^785"CpHeader Classes/CDVLocalStorage.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"93E88F71-60AB-40F4-8CA9-BBF45130103A-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVPlugin.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s431435811.309418
+e431435811.316090
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h118"CpHeader Classes/CDVPlugin.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h4c19502330b7b941^1139512330b7b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h0034c4f9dcffdf42^767"CpHeader Classes/CDVPlugin.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"267AD8A9-ACF7-4D32-B11B-423746492CF2-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVPluginResult.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s431435811.303367
+e431435811.308675
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h130"CpHeader Classes/CDVPluginResult.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.hd4d54d2330b7b941^836e4f2330b7b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h0034c4f9dcffdf42^785"CpHeader Classes/CDVPluginResult.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"22BFEFC1-D703-45A1-8D0C-04F31848325E-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s431435811.342988
+e431435811.344543
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h156"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h19e7572330b7b941^22c5582330b7b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h0034c4f9dcffdf42^824"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"54A92AAE-0A68-4FE6-AC09-123CEEBB3A88-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVShared.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s431435811.342464
+e431435811.349105
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h118"CpHeader Classes/CDVShared.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h9755582330b7b941^a583592330b7b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h0034c4f9dcffdf42^767"CpHeader Classes/CDVShared.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVShared.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"B317FEAC-697B-4548-9901-914CA5F6D319-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVTimer.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s431435811.349314
+e431435811.354620
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h116"CpHeader Classes/CDVTimer.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h36cb592330b7b941^7f2e5a2330b7b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h0034c4f9dcffdf42^764"CpHeader Classes/CDVTimer.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVTimer.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"5891FB7B-727E-483C-A9ED-2CFE8A3DAFDD-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVURLProtocol.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s431435811.321359
+e431435811.323782
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h128"CpHeader Classes/CDVURLProtocol.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h3e5c522330b7b941^e772532330b7b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h0034c4f9dcffdf42^782"CpHeader Classes/CDVURLProtocol.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"C14223BA-E44C-499C-9BE3-F5DE95E182C6-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s431435811.347908
+e431435811.354400
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h132"CpHeader Classes/CDVUserAgentUtil.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h3aca592330b7b941^ab045b2330b7b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h0034c4f9dcffdf42^788"CpHeader Classes/CDVUserAgentUtil.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"C4192379-A6B0-44C4-AAB2-B2BF830C8F01-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVViewController.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s431435811.324381
+e431435811.328293
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h134"CpHeader Classes/CDVViewController.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h9e26532330b7b941^6a12542330b7b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0034c4f9dcffdf42^791"CpHeader Classes/CDVViewController.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVViewController.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"B8653006-8EEF-4464-9473-D74A91AD13CE-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s431435811.347243
+e431435811.349522
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h136"CpHeader Classes/CDVWebViewDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h3c14592330b7b941^978e592330b7b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0034c4f9dcffdf42^794"CpHeader Classes/CDVWebViewDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"035E7B59-1406-4357-858F-E3CC5D5941D6-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/CDVWhitelist.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s431435811.316951
+e431435811.319645
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h124"CpHeader Classes/CDVWhitelist.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h2c80512330b7b941^ffe6512330b7b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h0034c4f9dcffdf42^776"CpHeader Classes/CDVWhitelist.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"2083F90A-E6C9-4B93-98F0-12F75A05ABDE-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s431435811.334186
+e431435811.338296
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h138"CpHeader Classes/NSArray+Comparisons.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h83a2552330b7b941^fa28572330b7b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h0034c4f9dcffdf42^797"CpHeader Classes/NSArray+Comparisons.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"85132405-2D18-4D61-8304-5E2C904ADD33-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/NSData+Base64.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s431435811.303311
+e431435811.309641
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h126"CpHeader Classes/NSData+Base64.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h08594e2330b7b941^84814f2330b7b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h0034c4f9dcffdf42^779"CpHeader Classes/NSData+Base64.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"9D798D60-2C56-4FB4-9261-2A3246C75E54-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s431435811.303305
+e431435811.309663
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h146"CpHeader Classes/NSDictionary+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h95824e2330b7b941^2c9d4f2330b7b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h0034c4f9dcffdf42^809"CpHeader Classes/NSDictionary+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"7A754EBF-C2BB-48E6-8C15-ACD5199EE943-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s431435811.312321
+e431435811.317184
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h158"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h4293502330b7b941^0f45512330b7b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h0034c4f9dcffdf42^827"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"7FDBFCB2-A29B-4E92-934C-5BB9C2F399D5-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s431435811.333697
+e431435811.336922
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h138"CpHeader Classes/UIDevice+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h4985552330b7b941^be17572330b7b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h0034c4f9dcffdf42^797"CpHeader Classes/UIDevice+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include/Cordova36"47E7D697-8462-4205-84A5-1DED632FC8EE-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CLibtool /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a normal i386
+s431435813.336835
+e431435813.362510
+r1
+xLibtool
+x/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Libtool /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a normal i38694"Libtool /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a normal i386bc5a562530b7b941^e1cf5c2530b7b941^---0#0#1#--1081"Libtool /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -filelist /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/libCordova.a36"E5B0DF1D-9F5E-4CD0-AA90-AA03DB16390E-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+
+CProcessPCH /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431435811.357733
+e431435811.887318
+r1
+xProcessPCH
+x/var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch291"ProcessPCH /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler27c15b2330b7b941^5e4be82330b7b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3750"ProcessPCH /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/macintosh/Downloads/adt-bundle/sdk/platform-tools:/Users/macintosh/Downloads/adt-bundle/sdk/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/macintosh/desktop/coa/coa/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.d -c /Users/macintosh/Desktop/COA/COA/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/0j/n6dp77rs13gdgyf49rjpnwvc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cyqextfxfnjqlyfpartafelduzjb/CordovaLib_Prefix.pch.pch36"C5249E04-58F1-4273-8525-C72EC521C5D7-
+bBB86D4DE-49B5-4B2E-AE6E-58FF1E7D81B8
+

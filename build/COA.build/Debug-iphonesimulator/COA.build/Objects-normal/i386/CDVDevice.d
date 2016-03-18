@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/COA/Plugins/org.apache.cordova.device/CDVDevice.m \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/build/emulator/include/Cordova/CDVJSON.h \
+  /Users/oms/Desktop/COA_app/COA/platforms/ios/COA/Plugins/org.apache.cordova.device/CDVDevice.h
