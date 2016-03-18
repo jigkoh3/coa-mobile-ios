@@ -27,7 +27,7 @@
 		    $('.amt_ios').hide();
 		    $('.amt_android').show();
 		}
-
+/*
 		var telephoneNumber = cordova.require("cordova/plugin/telephonenumber");
 		telephoneNumber.get(function (result) {
 		    app.loginService.viewModel.MOBILE_NO = result;
@@ -36,7 +36,7 @@
 		    //alert("Phone No. :: Not Found.");
 		});
 		
-		
+*/
 		
 
 		//var networkState = navigator.connection.type;
@@ -53,27 +53,27 @@
 		//	navigator.notification.alert("Error",
 		//		function() {}, "Background location failed", 'OK');
 		//}
-
-		var server = app.configService.serviceUrl;
-		var fingerprint = app.configService.fingerprint; // valid until sep 2014
-
-		window.plugins.sslCertificateChecker.check(
-			function() {
-				console.log("Conection Secure")
-			},
-			function(message) {
-				if (message == "CONNECTION_NOT_SECURE") {
-					console.log("Connection not Secure")
-					navigator.notification.alert("Connection not secure",
-						function() {}, "Security error", 'OK');
-				} else if (message == "CONNECTION_FAILED") {
-					app.loginService.viewModel.set("isOffline", true);
-					console.log("Initial offline");
-				}
-			},
-			server,
-			fingerprint);
-		
+                              var server = app.configService.serviceUrl;
+                              var fingerprint = app.configService.fingerprint; // valid until sep 2014
+                              
+                              window.plugins.sslCertificateChecker.check(
+                                                                         function() {
+                                                                         console.log("Conection Secure")
+                                                                         },
+                                                                         function(message) {
+                                                                         
+                                                                         if (message == "CONNECTION_NOT_SECURE") {
+                                                                         console.log("Connection not Secure")
+                                                                         navigator.notification.alert("Connection not secure",
+                                                                                                      function() {}, "Security error", 'OK');
+                                                                         } else if (message == "CONNECTION_FAILED") {
+                                                                         console.log("Connection failed");
+                                                                         navigator.notification.alert("Connection failed",
+                                                                                                      function() {}, "Network error", 'OK');
+                                                                         }
+                                                                         },
+                                                                         server,
+                                                                         fingerprint);
 	}, false);
 
 	window.addEventListener('load', function() {

@@ -1,2 +1,0 @@
-# coa-mobile-ios
-xdfgfd
